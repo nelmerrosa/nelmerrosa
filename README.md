@@ -1,7 +1,6 @@
 # Hi i'm Nelmer 🍺
 
 - 🔴 I’m currently learning Web Development.
-- 🔴 I’m looking for first development opportunity.
 - 🔴 Linkedin: https://www.linkedin.com/in/nelmer-rosa-67472b1bb/.
 
 <div>

@@ -1,6 +1,6 @@
-# Hi i'm Nelmer 🍺
+# Hi i'm Nelmer Rosa
 
-- 🔴 I’m currently learning Web Development.
+- 🔴 I’m currently FullStack Web Developer.
 - 🔴 Linkedin: https://www.linkedin.com/in/nelmer-rosa-67472b1bb/.
 
 <div>

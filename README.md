@@ -19,7 +19,6 @@
   <img align="center" alt="Nelmer-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Nelmer-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
   <img align="center" alt="Nelmer-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
-  <img height="130" align="right" alt="coffe" src="https://media4.giphy.com/media/QuIxFwQo0RMT1tASlV/200w.webp?cid=ecf05e478pj5c4ovhgbi0h6wqnfq1r682atjwir1uqxn2tfd&rid=200w.webp&ct=g">
 </div>
   
   ## 
